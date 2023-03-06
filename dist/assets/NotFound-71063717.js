@@ -1,0 +1,1 @@
+import{_ as n,r,o as a,c,a as o,g as e,b as s,w as l}from"./index-6cde78a7.js";const _={},d=o("h1",null,"Not Found",-1);function u(i,f){const t=r("router-link");return a(),c("div",null,[d,o("p",null,[e(" Sorry, we couldn't find the page you were looking for. Try going "),s(t,{to:"/"},{default:l(()=>[e("home")]),_:1}),e(". ")])])}const m=n(_,[["render",u]]);export{m as default};
